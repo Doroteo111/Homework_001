@@ -606,8 +606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a3ce701089ff74a8a9f56c0b85341e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWeekend: 1
-  dayWeek: 1
+  dayWeek: 7
 --- !u!65 &788780449
 BoxCollider:
   m_ObjectHideFlags: 0
