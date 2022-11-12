@@ -5,12 +5,12 @@ using UnityEngine;
 
 public class EXERCISE_6 : MonoBehaviour
 {
-    //VARIABLE ENTERA QUE GARDA LOS NUMEROS. en base que numeros agrege a cada variable va dentro de x o y
-    //operador de decisiones
+
+    //Integer variable which keeps the numbers, and it's an a decision operataion
 
     /*public bool isWeekend; */
 
-    public float dayWeek = 1;
+    public int dayWeek = 1;
     
 
     private void Start()
@@ -25,13 +25,7 @@ public class EXERCISE_6 : MonoBehaviour
         }
 
 
-
-        
-
     }
 
-
-
-
-    
+ 
 }

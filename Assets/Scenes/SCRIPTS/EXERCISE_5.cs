@@ -10,7 +10,7 @@ public class EXERCISE_5 : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(isGreater = x > y);
+        Debug.Log(isGreater = x > y);    //A conditional operation, in this case more bigger than
         
     }
 
